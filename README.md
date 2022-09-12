@@ -5,7 +5,7 @@
 |=================================================|
 
 |=================================================|
-|-> Caracteristicas                               |
+|Caracteristicas                                  |
 |-------------------------------------------------|
 |-> Área de portada para titulo y inicio.         |
 |-> Sección de elementos de inicio.               |
