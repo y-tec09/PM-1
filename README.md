@@ -1,7 +1,9 @@
-# Y-TEC - Plantilla M-1
-
--> Plantilla para sitio WEB #1.
--> @autor: Armando Vargas Conde.
+|-------------------------------------------------|
+|# Y-TEC - Plantilla M-1                          |
+|-------------------------------------------------|
+|-> Plantilla para sitio WEB #1.                  |
+|-> @autor: Armando Vargas Conde.                 |
+|-------------------------------------------------|
 
 |=================================================|
 |Caracteristicas                                  |
