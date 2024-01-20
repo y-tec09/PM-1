@@ -5,7 +5,7 @@
 	font-family: sans-serif;
 }
 .cont-princ {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/fondo.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/PORT_00.jpg');
   height: 645px;
   background-position: center;
   background-size: cover;
@@ -14,7 +14,7 @@
 }
 @media screen and (min-width: 800px) {
   .cont-princ {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/fondo.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/PORT_00.jpg');
     height: 730px;
     background-position: center;
     background-size: cover;
@@ -103,7 +103,7 @@
 
 /*Elementos del header secundario*/
 .header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/fondo.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('imgs/PORT_00.jpg');
   height: 600px;
   background-position: center;
   background-size: cover;
